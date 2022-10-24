@@ -1,0 +1,34 @@
+body{
+    font: family sans serif 14px;
+    
+}
+.biography{
+    background-color: white;
+    width: 70%;
+    display: inline-block;
+    line-height: 1.2;
+
+}
+.summary{
+    background-color: whitesmoke;
+    display:inline-block;
+    vertical-align :top;
+}
+
+.cabecera{
+    font-size: 140%;
+}
+.summary-table{
+    border:1px solid gray;
+    background-color: whitesmoke;
+}
+.summary-table thead th{
+    background-color: #f0e68c;
+    padding-top:3px;
+    padding-bottom: 3px;
+    font-size: 22px;
+}
+.summary-table tbody tr:first-child{
+    text-align: ¿center;
+}
+
